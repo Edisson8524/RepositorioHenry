@@ -1,2 +1,4 @@
 # RepositorioHenry
-cd "CarpetaHenry"
+$ cd "CarpetaHenry"
+$ touch [nombreDelArchivo]
+$ type nul > [nombreDelArchivo]
