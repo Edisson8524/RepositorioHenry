@@ -1,3 +1,3 @@
 # RepositorioHenry
-# cd "CarpetaHenry"
-# type nul > []
+cd "CarpetaHenry"
+type nul > "primerArchivo.txt"
